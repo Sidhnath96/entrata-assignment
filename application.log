@@ -1,0 +1,165 @@
+2024-02-11 18:31:40 INFO  demoSiteTesting:31 - successful navigated to watch demo page
+2024-02-11 18:39:15 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/property-management - Response Code: 308
+2024-02-11 18:39:16 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/residentpay - Response Code: 308
+2024-02-11 18:39:16 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/residentportal - Response Code: 308
+2024-02-11 18:39:16 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/BI - Response Code: 308
+2024-02-11 18:39:16 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/revenue-management - Response Code: 308
+2024-02-11 18:39:16 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/srm - Response Code: 308
+2024-02-11 18:39:16 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/access-connect - Response Code: 308
+2024-02-11 18:39:16 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/message-center - Response Code: 308
+2024-02-11 18:39:16 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/facility-management - Response Code: 308
+2024-02-11 18:39:16 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/reporting - Response Code: 308
+2024-02-11 18:39:16 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/sitetablet - Response Code: 308
+2024-02-11 18:39:16 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/marketing-and-leasing - Response Code: 308
+2024-02-11 18:39:17 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/prospectportal - Response Code: 308
+2024-02-11 18:39:17 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/rent-reporting - Response Code: 308
+2024-02-11 18:39:17 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/renters-insurance - Response Code: 308
+2024-02-11 18:39:17 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/leadmanager - Response Code: 308
+2024-02-11 18:39:17 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/digital-marketing - Response Code: 308
+2024-02-11 18:39:17 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/marketing-strategy - Response Code: 308
+2024-02-11 18:39:17 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/reputationadvisor - Response Code: 308
+2024-02-11 18:39:17 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/resident-services - Response Code: 308
+2024-02-11 18:39:17 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/deposit-alternative - Response Code: 308
+2024-02-11 18:39:17 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/residentverify - Response Code: 308
+2024-02-11 18:39:17 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/preciseID - Response Code: 308
+2024-02-11 18:39:18 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/verification-of-income - Response Code: 308
+2024-02-11 18:39:18 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/leasing-center - Response Code: 308
+2024-02-11 18:39:18 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/accounting - Response Code: 308
+2024-02-11 18:39:18 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/general-accounting - Response Code: 308
+2024-02-11 18:39:18 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/budgeting - Response Code: 308
+2024-02-11 18:39:18 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/job-costing - Response Code: 308
+2024-02-11 18:39:18 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/utilities - Response Code: 308
+2024-02-11 18:39:18 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/residentutility - Response Code: 308
+2024-02-11 18:39:18 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/utility-expense-management - Response Code: 308
+2024-02-11 18:39:18 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/utility-procurement - Response Code: 308
+2024-02-11 18:39:18 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/sales-tax-audits - Response Code: 308
+2024-02-11 18:39:19 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/sustainable-energy-management - Response Code: 308
+2024-02-11 18:39:19 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/operating-system - Response Code: 308
+2024-02-11 18:39:19 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/solutions-overview - Response Code: 308
+2024-02-11 18:39:19 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/multifamily - Response Code: 308
+2024-02-11 18:39:19 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/student - Response Code: 308
+2024-02-11 18:39:19 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/affordable - Response Code: 308
+2024-02-11 18:39:19 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/military - Response Code: 308
+2024-02-11 18:39:19 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/commercial - Response Code: 308
+2024-02-11 18:39:19 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/resident-services - Response Code: 308
+2024-02-11 18:39:19 INFO  demoSiteTesting:48 - Broken link: Resources - URL: https://www.entrata.com/resources - Response Code: 308
+2024-02-11 18:39:22 INFO  demoSiteTesting:48 - Broken link: Sign In - URL: https://www.entrata.com/sign-in - Response Code: 308
+2024-02-11 18:39:22 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/property-management - Response Code: 308
+2024-02-11 18:39:22 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/residentpay - Response Code: 308
+2024-02-11 18:39:22 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/residentportal - Response Code: 308
+2024-02-11 18:39:22 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/BI - Response Code: 308
+2024-02-11 18:39:22 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/revenue-management - Response Code: 308
+2024-02-11 18:39:23 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/srm - Response Code: 308
+2024-02-11 18:39:23 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/access-connect - Response Code: 308
+2024-02-11 18:39:23 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/message-center - Response Code: 308
+2024-02-11 18:39:23 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/facility-management - Response Code: 308
+2024-02-11 18:39:23 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/reporting - Response Code: 308
+2024-02-11 18:39:23 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/sitetablet - Response Code: 308
+2024-02-11 18:39:23 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/marketing-and-leasing - Response Code: 308
+2024-02-11 18:39:23 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/prospectportal - Response Code: 308
+2024-02-11 18:39:23 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/rent-reporting - Response Code: 308
+2024-02-11 18:39:23 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/renters-insurance - Response Code: 308
+2024-02-11 18:39:24 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/leadmanager - Response Code: 308
+2024-02-11 18:39:24 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/digital-marketing - Response Code: 308
+2024-02-11 18:39:24 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/marketing-strategy - Response Code: 308
+2024-02-11 18:39:24 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/reputationadvisor - Response Code: 308
+2024-02-11 18:39:24 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/resident-services - Response Code: 308
+2024-02-11 18:39:24 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/deposit-alternative - Response Code: 308
+2024-02-11 18:39:24 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/residentverify - Response Code: 308
+2024-02-11 18:39:25 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/preciseID - Response Code: 308
+2024-02-11 18:39:25 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/verification-of-income - Response Code: 308
+2024-02-11 18:39:25 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/leasing-center - Response Code: 308
+2024-02-11 18:39:25 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/accounting - Response Code: 308
+2024-02-11 18:39:25 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/general-accounting - Response Code: 308
+2024-02-11 18:39:25 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/budgeting - Response Code: 308
+2024-02-11 18:39:25 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/job-costing - Response Code: 308
+2024-02-11 18:39:25 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/utilities - Response Code: 308
+2024-02-11 18:39:26 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/residentutility - Response Code: 308
+2024-02-11 18:39:26 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/utility-expense-management - Response Code: 308
+2024-02-11 18:39:26 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/utility-procurement - Response Code: 308
+2024-02-11 18:39:26 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/sales-tax-audits - Response Code: 308
+2024-02-11 18:39:26 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/sustainable-energy-management - Response Code: 308
+2024-02-11 18:39:26 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/solutions-overview - Response Code: 308
+2024-02-11 18:39:26 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/multifamily - Response Code: 308
+2024-02-11 18:39:26 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/student - Response Code: 308
+2024-02-11 18:39:26 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/affordable - Response Code: 308
+2024-02-11 18:39:26 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/military - Response Code: 308
+2024-02-11 18:39:27 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/commercial - Response Code: 308
+2024-02-11 18:39:27 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/products/resident-services - Response Code: 308
+2024-02-11 18:39:27 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/resources - Response Code: 308
+2024-02-11 18:39:28 INFO  demoSiteTesting:48 - Broken link:  - URL: https://www.entrata.com/sign-in - Response Code: 308
+2024-02-11 18:39:29 INFO  demoSiteTesting:55 - java.net.MalformedURLException: Cannot invoke "String.length()" because "spec" is nullException occurred while checking the link: null
+2024-02-11 18:39:30 INFO  demoSiteTesting:55 - java.net.MalformedURLException: Cannot invoke "String.length()" because "spec" is nullException occurred while checking the link: null
+2024-02-11 18:39:30 INFO  demoSiteTesting:48 - Broken link: Property Management
+Manage all your property operations in one place.
+Explore More .link-arrow-dark{fill:#262626;} - URL: https://www.entrata.com/products/property-management - Response Code: 308
+2024-02-11 18:39:31 INFO  demoSiteTesting:48 - Broken link: Marketing & Leasing
+Attract and convert prospects faster.
+Explore More .link-arrow-dark{fill:#262626;} - URL: https://www.entrata.com/products/marketing-and-leasing - Response Code: 308
+2024-02-11 18:39:31 INFO  demoSiteTesting:48 - Broken link: Accounting
+Manage and track property and portfolio performance.
+Explore More .link-arrow-dark{fill:#262626;} - URL: https://www.entrata.com/products/accounting - Response Code: 308
+2024-02-11 18:39:31 INFO  demoSiteTesting:48 - Broken link: Utilities
+Centralize and manage reporting and expense recapture.
+Explore More .link-arrow-dark{fill:#262626;} - URL: https://www.entrata.com/products/utilities - Response Code: 308
+2024-02-11 18:39:32 INFO  demoSiteTesting:48 - Broken link: See the Operating System - URL: https://www.entrata.com/operating-system - Response Code: 308
+2024-02-11 18:39:32 INFO  demoSiteTesting:48 - Broken link: Learn More - URL: https://www.entrata.com/products/resident-services - Response Code: 308
+2024-02-11 18:39:33 INFO  demoSiteTesting:48 - Broken link: See All Solutions - URL: https://www.entrata.com/solutions-overview - Response Code: 308
+2024-02-11 18:39:33 INFO  demoSiteTesting:48 - Broken link: Learn About the Operating System - URL: https://www.entrata.com/operating-system - Response Code: 308
+2024-02-11 18:39:34 INFO  demoSiteTesting:48 - Broken link: Property Management - URL: https://www.entrata.com/products/property-management - Response Code: 308
+2024-02-11 18:39:34 INFO  demoSiteTesting:48 - Broken link: ResidentPay - URL: https://www.entrata.com/products/residentpay - Response Code: 308
+2024-02-11 18:39:34 INFO  demoSiteTesting:48 - Broken link: ResidentPortal - URL: https://www.entrata.com/products/residentportal - Response Code: 308
+2024-02-11 18:39:34 INFO  demoSiteTesting:48 - Broken link: Entrata Business Intelligence - URL: https://www.entrata.com/products/BI - Response Code: 308
+2024-02-11 18:39:34 INFO  demoSiteTesting:48 - Broken link: Entrata Revenue Management - URL: https://www.entrata.com/products/revenue-management - Response Code: 308
+2024-02-11 18:39:34 INFO  demoSiteTesting:48 - Broken link: Student Revenue Management - URL: https://www.entrata.com/products/srm - Response Code: 308
+2024-02-11 18:39:34 INFO  demoSiteTesting:48 - Broken link: Access Connect - URL: https://www.entrata.com/products/access-connect - Response Code: 308
+2024-02-11 18:39:35 INFO  demoSiteTesting:48 - Broken link: Message Center - URL: https://www.entrata.com/products/message-center - Response Code: 308
+2024-02-11 18:39:35 INFO  demoSiteTesting:48 - Broken link: Facility Management - URL: https://www.entrata.com/products/facility-management - Response Code: 308
+2024-02-11 18:39:35 INFO  demoSiteTesting:48 - Broken link: Reporting - URL: https://www.entrata.com/products/reporting - Response Code: 308
+2024-02-11 18:39:35 INFO  demoSiteTesting:48 - Broken link: SiteTablet - URL: https://www.entrata.com/products/sitetablet - Response Code: 308
+2024-02-11 18:39:35 INFO  demoSiteTesting:48 - Broken link: Marketing & Leasing - URL: https://www.entrata.com/products/marketing-and-leasing - Response Code: 308
+2024-02-11 18:39:35 INFO  demoSiteTesting:48 - Broken link: ProspectPortal - URL: https://www.entrata.com/products/prospectportal - Response Code: 308
+2024-02-11 18:39:35 INFO  demoSiteTesting:48 - Broken link: LeadManager - URL: https://www.entrata.com/products/leadmanager - Response Code: 308
+2024-02-11 18:39:35 INFO  demoSiteTesting:48 - Broken link: Digital Marketing Bundle - URL: https://www.entrata.com/products/digital-marketing - Response Code: 308
+2024-02-11 18:39:35 INFO  demoSiteTesting:48 - Broken link: Marketing Strategy Hub - URL: https://www.entrata.com/products/marketing-strategy - Response Code: 308
+2024-02-11 18:39:35 INFO  demoSiteTesting:48 - Broken link: ReputationAdvisor - URL: https://www.entrata.com/products/reputationadvisor - Response Code: 308
+2024-02-11 18:39:35 INFO  demoSiteTesting:48 - Broken link: Resident Services - URL: https://www.entrata.com/products/resident-services - Response Code: 308
+2024-02-11 18:39:36 INFO  demoSiteTesting:48 - Broken link: Renters Insurance - URL: https://www.entrata.com/products/renters-insurance - Response Code: 308
+2024-02-11 18:39:36 INFO  demoSiteTesting:48 - Broken link: Deposit Alternative - URL: https://www.entrata.com/products/deposit-alternative - Response Code: 308
+2024-02-11 18:39:36 INFO  demoSiteTesting:48 - Broken link: ResidentVerify - URL: https://www.entrata.com/products/residentverify - Response Code: 308
+2024-02-11 18:39:36 INFO  demoSiteTesting:48 - Broken link: PreciseID - URL: https://www.entrata.com/products/preciseID - Response Code: 308
+2024-02-11 18:39:36 INFO  demoSiteTesting:48 - Broken link: Verification of Income - URL: https://www.entrata.com/products/verification-of-income - Response Code: 308
+2024-02-11 18:39:36 INFO  demoSiteTesting:48 - Broken link: Leasing Center - URL: https://www.entrata.com/products/leasing-center - Response Code: 308
+2024-02-11 18:39:36 INFO  demoSiteTesting:48 - Broken link: Accounting - URL: https://www.entrata.com/products/accounting - Response Code: 308
+2024-02-11 18:39:36 INFO  demoSiteTesting:48 - Broken link: General Accounting - URL: https://www.entrata.com/products/general-accounting - Response Code: 308
+2024-02-11 18:39:36 INFO  demoSiteTesting:48 - Broken link: Budgeting - URL: https://www.entrata.com/products/budgeting - Response Code: 308
+2024-02-11 18:39:37 INFO  demoSiteTesting:48 - Broken link: Job Costing - URL: https://www.entrata.com/products/job-costing - Response Code: 308
+2024-02-11 18:39:37 INFO  demoSiteTesting:48 - Broken link: Utilities - URL: https://www.entrata.com/products/utilities - Response Code: 308
+2024-02-11 18:39:37 INFO  demoSiteTesting:48 - Broken link: ResidentUtility - URL: https://www.entrata.com/products/residentutility - Response Code: 308
+2024-02-11 18:39:37 INFO  demoSiteTesting:48 - Broken link: Utility Expense Management - URL: https://www.entrata.com/products/utility-expense-management - Response Code: 308
+2024-02-11 18:39:37 INFO  demoSiteTesting:48 - Broken link: Utility Procurement - URL: https://www.entrata.com/products/utility-procurement - Response Code: 308
+2024-02-11 18:39:37 INFO  demoSiteTesting:48 - Broken link: Sales Tax Audits - URL: https://www.entrata.com/products/sales-tax-audits - Response Code: 308
+2024-02-11 18:39:37 INFO  demoSiteTesting:48 - Broken link: Sustainable Energy Management - URL: https://www.entrata.com/products/sustainable-energy-management - Response Code: 308
+2024-02-11 18:39:37 INFO  demoSiteTesting:48 - Broken link: All Solutions - URL: https://www.entrata.com/solutions-overview - Response Code: 308
+2024-02-11 18:39:37 INFO  demoSiteTesting:48 - Broken link: Multifamily - URL: https://www.entrata.com/multifamily - Response Code: 308
+2024-02-11 18:39:37 INFO  demoSiteTesting:48 - Broken link: Student - URL: https://www.entrata.com/student - Response Code: 308
+2024-02-11 18:39:37 INFO  demoSiteTesting:48 - Broken link: Affordable - URL: https://www.entrata.com/affordable - Response Code: 308
+2024-02-11 18:39:37 INFO  demoSiteTesting:48 - Broken link: Military - URL: https://www.entrata.com/military - Response Code: 308
+2024-02-11 18:39:38 INFO  demoSiteTesting:48 - Broken link: Commercial - URL: https://www.entrata.com/commercial - Response Code: 308
+2024-02-11 18:39:38 INFO  demoSiteTesting:48 - Broken link: Operating System - URL: https://www.entrata.com/operating-system - Response Code: 308
+2024-02-11 18:39:38 INFO  demoSiteTesting:48 - Broken link: Resources - URL: https://www.entrata.com/resources - Response Code: 308
+2024-02-11 18:39:38 INFO  demoSiteTesting:48 - Broken link: Blog - URL: https://www.entrata.com/blog - Response Code: 308
+2024-02-11 18:39:38 INFO  demoSiteTesting:48 - Broken link: Careers - URL: https://www.entrata.com/careers - Response Code: 308
+2024-02-11 18:39:38 INFO  demoSiteTesting:48 - Broken link: Integrations - URL: https://www.entrata.com/integrations - Response Code: 308
+2024-02-11 18:39:38 INFO  demoSiteTesting:48 - Broken link: Legal - URL: https://www.entrata.com/legal - Response Code: 308
+2024-02-11 18:39:43 INFO  demoSiteTesting:48 - Broken link: .twitter-x{fill:#262626;} - URL: https://twitter.com/entratasoftware - Response Code: 403
+2024-02-11 18:39:43 INFO  demoSiteTesting:48 - Broken link: .linkedin-shape{fill:#262626;} - URL: http://www.linkedin.com/company/entratasoftware - Response Code: 999
+2024-02-11 18:39:44 INFO  demoSiteTesting:48 - Broken link: Terms of Use - URL: https://www.entrata.com/terms-of-use - Response Code: 308
+2024-02-11 18:39:44 INFO  demoSiteTesting:48 - Broken link: Privacy Policy - URL: https://www.entrata.com/privacy-policy - Response Code: 308
+2024-02-11 18:39:44 INFO  demoSiteTesting:48 - Broken link: Web Accessibility Statement - URL: https://www.entrata.com/accessibility-statement - Response Code: 308
+2024-02-11 18:39:46 INFO  demoSiteTesting:48 - Broken link: I live at an Entrata-powered property - URL: https://residentportal.com/ - Response Code: 405
+2024-02-11 18:39:46 INFO  demoSiteTesting:48 - Broken link: Privacy Policy. - URL: https://www.entrata.com/privacy-policy - Response Code: 308
+2024-02-11 18:40:03 INFO  demoSiteTesting:31 - successful navigated to watch demo page
+2024-02-11 18:40:05 INFO  demoSiteTesting:49 - successful navigated to sign in page
+2024-02-11 18:40:11 INFO  demoSiteTesting:77 - successful navigated to learn more page
+2024-02-11 18:40:15 INFO  demoSiteTesting:96 - successful navigated to see operating system page
